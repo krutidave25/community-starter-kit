@@ -14,7 +14,7 @@ There are many ways you can help us make this project better. Every repository i
 - **qa-needed**: no
 - **documentation-needed**: yes
 - **bug-high-priority**: no
-- **bug-low-priority**: yes
+- **bug-low-priority**: yes.
 - **help-wanted**: no
 
 You can also help by translating documentation and reviewing open pull requests.
